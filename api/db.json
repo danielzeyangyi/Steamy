@@ -1,3 +1,14 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "programming with me 101",
+      "description": "learn react redux step by step ",
+      "id": 1
+    },
+    {
+      "description": "gaming",
+      "title": "dota 2 live",
+      "id": 2
+    }
+  ]
 }
