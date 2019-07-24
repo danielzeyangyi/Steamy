@@ -5,7 +5,7 @@ class StreamForm extends Component {
   renderError({ error, touched }) {
     if (touched && error) {
       return (
-        <div className='ui error message'>
+        <div className='ui pointing red basic label'>
           <div className='header'>{error}</div>
         </div>
       );
